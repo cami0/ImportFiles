@@ -1,0 +1,7 @@
+Sub selectCells()
+
+'Range("a3", "a7") = 12
+Range("a3", "a7").Value = 12
+
+
+End Sub
