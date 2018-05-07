@@ -1,0 +1,19 @@
+Sub DeleteEvenItems()
+'Cells(2, 1) = ""
+'Cells(4, 1) = ""
+'Cells(6, 1) = ""
+
+
+i = 2
+
+
+Do While i < 7
+
+
+Cells(i, 1) = ""
+i = i + 2
+
+Loop
+
+
+End Sub
